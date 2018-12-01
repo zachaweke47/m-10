@@ -1,0 +1,25 @@
+body{
+  background-color:#675c13;
+}
+
+h1{
+  color:black;
+}
+
+table{
+  border-color:gold;
+}
+
+td{
+
+  border-style: solid;
+}
+
+th{
+
+  border-style: solid;
+}
+
+.head {
+  color:white
+}
